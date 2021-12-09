@@ -1,6 +1,6 @@
 ## Prerequisites
 
-Change API Key in file src/config.js, as mention in code below
+Change YouTube API Key in file src/config.js, as mention in code below
 
 API_KEY = "YOUR_API_KEY_HERE"
 
