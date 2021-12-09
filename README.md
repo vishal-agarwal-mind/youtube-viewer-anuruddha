@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+## Prerequisites
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Change API Key in file src/config.js, as mention in code below
+
+API_KEY = "YOUR_API_KEY_HERE"
 
 ## Available Scripts
 
